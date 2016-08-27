@@ -8,7 +8,7 @@ With this we can grab all images displayed on webpage . The selected images are 
 With this we can clip any portion of webpage. The clipped portion is rendered as an image and displayed in new tab . 
 
 #Work to be done 
-Preserve Aspect ration of images when they are fetched
+Preserve Aspect ration of images when they are fetched <br/>
 Clip portion of webpage extending beyond viewport. (Clip with scroll)
 
 ##How to Test
